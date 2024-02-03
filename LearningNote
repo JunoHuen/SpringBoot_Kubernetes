@@ -1,0 +1,4 @@
+1. 单体仓库（Mono Repo）vs多仓库（Multi Repo）
+
+2. 参数校验
+可以用标准Annotation 或者自定义Annotation
